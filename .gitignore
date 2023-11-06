@@ -1,6 +1,8 @@
 # project files
 get data/config.py
 get data/configurations.ini
+NER/config.py
+NER/configurations.ini
 
 
 # Byte-compiled / optimized / DLL files
