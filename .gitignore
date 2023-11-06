@@ -3,6 +3,7 @@ get data/config.py
 get data/configurations.ini
 NER/config.py
 NER/configurations.ini
+NER/maps/ocean_df/
 
 
 # Byte-compiled / optimized / DLL files
